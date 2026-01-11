@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hola, aquí 👋
+<div align="center">
+  <img src="https://cdn.hostrta.win/fl/yuud.jpg" alt="Rufino Felipe" width="200" style="border-radius: 10px;"><br>
+  <h1>Hola, soy Rufino Felipe 👋</h1>
+  <p>Desarrollador principiante interesado en bots, automatización e inteligencia artificial. Aprendiendo cada día para crear herramientas útiles para todos.</p>
+  <p><strong>Actualmente trabajando en una IA propia integrada en WhatsApp.</strong></p>
+</div>
 
-<!--
-**rufinofelipe/rufinofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🛠️ Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+📢 Mis redes
+
+- 📸 *Instagram*: [@rufino_felipe.15](https://www.instagram.com/rufino_felipe.15)
+- 🔗 *Canal de WhatsApp del bot*: [Waguri Bot](https://whatsapp.com/channel/0029VbBUHyQCsU9IpJ0oIO2i)
+
+---🌸 Proyectos destacados
+
+- 🤖 *Waguri Bot* – Un bot multifunción con comandos de entretenimiento, anime, herramientas y más.
+- 🧠 *IA personalizada* – En desarrollo: modelo de IA  con respuestas naturales y útiles.
+
+---
+
+> Powered by Rufino ✝️
+```
+
+
