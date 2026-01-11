@@ -1,9 +1,9 @@
 ## Hola, aquí 👋
 <div align="center">
-  <img src="https://cdn.hostrta.win/fl/yuud.jpg" alt="Rufino Felipe" width="200" style="border-radius: 10px;"><br>
+  <img src="https://cdn.hostrta.win/fl/bse2.jpg" alt="Rufino Felipe" width="200" style="border-radius: 10px;"><br>
   <h1>Hola, soy Rufino Felipe 👋</h1>
   <p>Desarrollador principiante interesado en bots, automatización e inteligencia artificial. Aprendiendo cada día para crear herramientas útiles para todos.</p>
-  <p><strong>Actualmente trabajando en una IA propia integrada en WhatsApp.</strong></p>
+  <p><strong>Actualmente trabajando en una IA propia intentando superar a las existentes.</strong></p>
 </div>
 
 ---
@@ -31,6 +31,5 @@
 ---
 
 > Powered by Rufino ✝️
-```
 
 
