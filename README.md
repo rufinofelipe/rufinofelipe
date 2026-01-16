@@ -1,4 +1,4 @@
-##Hola aquí 
+
 
 🚀 ⁱ'ᵐ|𝕽𝖚𝖋𝖎𝖓𝖔𒆜†𝔇𝔢𝔳 | Desarrollador en Evolución
 
@@ -27,8 +27,6 @@
 
 </div>
 
----
-
 🔧 Stack Tecnológico
 
 Lenguajes & Frameworks
@@ -45,7 +43,7 @@ https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=w
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 
----
+
 
 🌸 Proyectos Destacados
 
@@ -65,7 +63,6 @@ Modelo de inteligencia artificial con respuestas naturales y capacidad de aprend
 · Objetivo: Superar modelos existentes en utilidad y naturalidad
 · Enfoque: Procesamiento del lenguaje natural, aprendizaje automático
 
----
 
 📱 Conecta Conmigo
 
@@ -89,7 +86,7 @@ Modelo de inteligencia artificial con respuestas naturales y capacidad de aprend
 
 </div>
 
----
+
 
 📊 Estadísticas de GitHub
 
@@ -105,7 +102,7 @@ https://streak-stats.demolab.com/?user=tu-usuario&theme=radical&hide_border=true
 
 </div>
 
----
+
 
 📝 Últimos Logros
 
@@ -114,7 +111,7 @@ https://streak-stats.demolab.com/?user=tu-usuario&theme=radical&hide_border=true
 · 🔄 Mejorando constantemente mis habilidades en desarrollo web
 · 🎯 Objetivo: Dominio completo del stack MERN + Python para IA
 
----
+
 
 <div align="center">
 
