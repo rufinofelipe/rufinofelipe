@@ -15,17 +15,15 @@
 *Desarrollador interesado en bots, automatización e inteligencia artificial.*
 *Aprendiendo cada día para crear herramientas útiles para todos.*
 
-<br/>
-
-**🚀 Trabajando en una IA propia intentando superar a las existentes**
-
 </div>
 
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=3000&color=8B6FCB&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnolog%C3%ADas+y+herramientas" alt="tech" />
+</div>
 
-### 🛠️ Tecnologías y herramientas
+<div align="center">
 
 
 
@@ -58,8 +56,10 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=3000&color=8B6FCB&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8C%B8+Proyectos+destacados" alt="projects" />
+</div>
 
-### 🌸 Proyectos destacados
+<div align="center">
 
 | ✦ | Proyecto | Descripción |
 |:---:|:---|:---|
@@ -71,8 +71,10 @@
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=3000&color=8B6FCB&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%93%A2+Mis+redes" alt="social" />
+</div>
 
-### 📢 Mis redes
+<div align="center">
 
 [
 
@@ -85,8 +87,10 @@
 
 ](https://whatsapp.com/channel/0029VbBUHyQCsU9IpJ0oIO2i)
 
+</div>
+
 ---
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6ECFC9&center=true&vCenter=true&width=500&height=30&lines=ꕥ%E3%83%BB%E2%9F%A1%E3%83%BB%F0%93%82%83+Waguri+Dev+%F0%93%82%83%E3%83%BB%E2%9F%A1%E3%83%BBꕥ+%E2%9C%A8" alt="footer"/>
-
 </div>
